@@ -44,8 +44,10 @@ It demonstrates how the Breadth-First Search (BFS) algorithm finds a path betwee
 - Swing (GUI)
 - Data Structures (Queue)
 - Algorithm (BFS)
-
----
+## Project: Pathfinding Visualizer
+- Built using Java Swing
+- Uses BFS algorithm
+- Interactive grid system
 
 ## ▶️ How to Run
 
