@@ -19,6 +19,36 @@ Displays path using '*' symbol
 - GUI Visualization
 - Dijkstra Algorithm
 - A* Algorithm
+# 🚀 Pathfinding Visualizer (Java GUI)
 
+This project is a Pathfinding Visualizer built using Java Swing.  
+It demonstrates how the Breadth-First Search (BFS) algorithm finds a path between a start and end point in a grid.
+
+---
+
+## 🧠 Features
+
+- Interactive 5x5 grid
+- Click to set:
+  - Start point (S)
+  - End point (E)
+  - Obstacles (#)
+- Visual path display (*)
+- BFS algorithm for shortest path
+
+---
+
+## 🛠 Technologies Used
+
+- Java
+- Swing (GUI)
+- Data Structures (Queue)
+- Algorithm (BFS)
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
 ## Author
 Sneha Sharma
